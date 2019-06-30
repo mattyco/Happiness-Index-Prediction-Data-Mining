@@ -1,0 +1,159 @@
+Country,Region,Happiness Score
+Switzerland,Western Europe,7.587
+Iceland,Western Europe,7.561
+Denmark,Western Europe,7.527
+Norway,Western Europe,7.522
+Canada,North America,7.427
+Finland,Western Europe,7.406
+Netherlands,Western Europe,7.378
+Sweden,Western Europe,7.364
+New Zealand,Australia and New Zealand,7.286
+Australia,Australia and New Zealand,7.284
+Israel,Middle East and Northern Africa,7.278
+Costa Rica,Latin America and Caribbean,7.226
+Austria,Western Europe,7.2
+Mexico,Latin America and Caribbean,7.187
+United States,North America,7.119
+Brazil,Latin America and Caribbean,6.983
+Luxembourg,Western Europe,6.946
+Ireland,Western Europe,6.94
+Belgium,Western Europe,6.937
+United Arab Emirates,Middle East and Northern Africa,6.901
+United Kingdom,Western Europe,6.867
+Oman,Middle East and Northern Africa,6.853
+Venezuela,Latin America and Caribbean,6.81
+Singapore,Southeastern Asia,6.798
+Panama,Latin America and Caribbean,6.786
+Germany,Western Europe,6.75
+Chile,Latin America and Caribbean,6.67
+Qatar,Middle East and Northern Africa,6.611
+France,Western Europe,6.575
+Argentina,Latin America and Caribbean,6.574
+Czech Republic,Central and Eastern Europe,6.505
+Uruguay,Latin America and Caribbean,6.485
+Colombia,Latin America and Caribbean,6.477
+Thailand,Southeastern Asia,6.455
+Saudi Arabia,Middle East and Northern Africa,6.411
+Spain,Western Europe,6.329
+Malta,Western Europe,6.302
+Taiwan,Eastern Asia,6.298
+Kuwait,Middle East and Northern Africa,6.295
+Suriname,Latin America and Caribbean,6.269
+Trinidad and Tobago,Latin America and Caribbean,6.168
+El Salvador,Latin America and Caribbean,6.13
+Guatemala,Latin America and Caribbean,6.123
+Uzbekistan,Central and Eastern Europe,6.003
+Slovakia,Central and Eastern Europe,5.995
+Japan,Eastern Asia,5.987
+South Korea,Eastern Asia,5.984
+Ecuador,Latin America and Caribbean,5.975
+Bahrain,Middle East and Northern Africa,5.96
+Italy,Western Europe,5.948
+Bolivia,Latin America and Caribbean,5.89
+Moldova,Central and Eastern Europe,5.889
+Paraguay,Latin America and Caribbean,5.878
+Kazakhstan,Central and Eastern Europe,5.855
+Slovenia,Central and Eastern Europe,5.848
+Lithuania,Central and Eastern Europe,5.833
+Nicaragua,Latin America and Caribbean,5.828
+Peru,Latin America and Caribbean,5.824
+Belarus,Central and Eastern Europe,5.813
+Poland,Central and Eastern Europe,5.791
+Malaysia,Southeastern Asia,5.77
+Croatia,Central and Eastern Europe,5.759
+Libya,Middle East and Northern Africa,5.754
+Russia,Central and Eastern Europe,5.716
+Jamaica,Latin America and Caribbean,5.709
+North Cyprus,Western Europe,5.695
+Cyprus,Western Europe,5.689
+Algeria,Middle East and Northern Africa,5.605
+Kosovo,Central and Eastern Europe,5.589
+Turkmenistan,Central and Eastern Europe,5.548
+Mauritius,Sub-Saharan Africa,5.477
+Hong Kong,Eastern Asia,5.474
+Estonia,Central and Eastern Europe,5.429
+Indonesia,Southeastern Asia,5.399
+Vietnam,Southeastern Asia,5.36
+Turkey,Middle East and Northern Africa,5.332
+Kyrgyzstan,Central and Eastern Europe,5.286
+Nigeria,Sub-Saharan Africa,5.268
+Bhutan,Southern Asia,5.253
+Azerbaijan,Central and Eastern Europe,5.212
+Pakistan,Southern Asia,5.194
+Jordan,Middle East and Northern Africa,5.192
+Montenegro,Central and Eastern Europe,5.192
+China,Eastern Asia,5.14
+Zambia,Sub-Saharan Africa,5.129
+Romania,Central and Eastern Europe,5.124
+Serbia,Central and Eastern Europe,5.123
+Portugal,Western Europe,5.102
+Latvia,Central and Eastern Europe,5.098
+Philippines,Southeastern Asia,5.073
+Somaliland region,Sub-Saharan Africa,5.057
+Morocco,Middle East and Northern Africa,5.013
+Macedonia,Central and Eastern Europe,5.007
+Mozambique,Sub-Saharan Africa,4.971
+Albania,Central and Eastern Europe,4.959
+Bosnia and Herzegovina,Central and Eastern Europe,4.949
+Lesotho,Sub-Saharan Africa,4.898
+Dominican Republic,Latin America and Caribbean,4.885
+Laos,Southeastern Asia,4.876
+Mongolia,Eastern Asia,4.874
+Swaziland,Sub-Saharan Africa,4.867
+Greece,Western Europe,4.857
+Lebanon,Middle East and Northern Africa,4.839
+Hungary,Central and Eastern Europe,4.8
+Honduras,Latin America and Caribbean,4.788
+Tajikistan,Central and Eastern Europe,4.786
+Tunisia,Middle East and Northern Africa,4.739
+Palestinian Territories,Middle East and Northern Africa,4.715
+Bangladesh,Southern Asia,4.694
+Iran,Middle East and Northern Africa,4.686
+Ukraine,Central and Eastern Europe,4.681
+Iraq,Middle East and Northern Africa,4.677
+South Africa,Sub-Saharan Africa,4.642
+Ghana,Sub-Saharan Africa,4.633
+Zimbabwe,Sub-Saharan Africa,4.61
+Liberia,Sub-Saharan Africa,4.571
+India,Southern Asia,4.565
+Sudan,Sub-Saharan Africa,4.55
+Haiti,Latin America and Caribbean,4.518
+Congo (Kinshasa),Sub-Saharan Africa,4.517
+Nepal,Southern Asia,4.514
+Ethiopia,Sub-Saharan Africa,4.512
+Sierra Leone,Sub-Saharan Africa,4.507
+Mauritania,Sub-Saharan Africa,4.436
+Kenya,Sub-Saharan Africa,4.419
+Djibouti,Sub-Saharan Africa,4.369
+Armenia,Central and Eastern Europe,4.35
+Botswana,Sub-Saharan Africa,4.332
+Myanmar,Southeastern Asia,4.307
+Georgia,Central and Eastern Europe,4.297
+Malawi,Sub-Saharan Africa,4.292
+Sri Lanka,Southern Asia,4.271
+Cameroon,Sub-Saharan Africa,4.252
+Bulgaria,Central and Eastern Europe,4.218
+Egypt,Middle East and Northern Africa,4.194
+Yemen,Middle East and Northern Africa,4.077
+Angola,Sub-Saharan Africa,4.033
+Mali,Sub-Saharan Africa,3.995
+Congo (Brazzaville),Sub-Saharan Africa,3.989
+Comoros,Sub-Saharan Africa,3.956
+Uganda,Sub-Saharan Africa,3.931
+Senegal,Sub-Saharan Africa,3.904
+Gabon,Sub-Saharan Africa,3.896
+Niger,Sub-Saharan Africa,3.845
+Cambodia,Southeastern Asia,3.819
+Tanzania,Sub-Saharan Africa,3.781
+Madagascar,Sub-Saharan Africa,3.681
+Central African Republic,Sub-Saharan Africa,3.678
+Chad,Sub-Saharan Africa,3.667
+Guinea,Sub-Saharan Africa,3.656
+Ivory Coast,Sub-Saharan Africa,3.655
+Burkina Faso,Sub-Saharan Africa,3.587
+Afghanistan,Southern Asia,3.575
+Rwanda,Sub-Saharan Africa,3.465
+Benin,Sub-Saharan Africa,3.34
+Syria,Middle East and Northern Africa,3.006
+Burundi,Sub-Saharan Africa,2.905
+Togo,Sub-Saharan Africa,2.839
